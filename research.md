@@ -14,7 +14,7 @@
       </span>
     </td>
     <td valign="top" align="right" nowrap width="20%">
-      <a href="[paper.pdf](https://iris.imtlucca.it/retrieve/handle/20.500.11771/19778/20932/Gnecco2021_Article_OptimalDataCollectionDesignInM.pdf)">PDF</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://iris.imtlucca.it/retrieve/handle/20.500.11771/19778/20932/Gnecco2021_Article_OptimalDataCollectionDesignInM.pdf">PDF</a>
     </td>
   </tr>
 </table>
