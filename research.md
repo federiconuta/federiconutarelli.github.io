@@ -7,7 +7,7 @@
     <td valign="top" align="left" width="80%">
       <strong style="font-size: 28px;">Optimal data collection design in machine learning: the case of the fixed effects generalized least squares panel data model </strong><br>
       <em style="font-size: 20px;">
-        Joint with <a href="[[https://example.com](https://www.imtlucca.it/giorgiostefano.gnecco)](https://www.imtlucca.it/giorgiostefano.gnecco)">Giorgio Gnecco</a> and <a href="[https://example.com]([[https://www.imtlucca.it/giorgiostefano.gnecco](https://www.deib.polimi.it/ita/personale/dettagli/1957454)](https://www.deib.polimi.it/ita/personale/dettagli/1957454))">Daniela Selvi</a>, June 2021, DOI: 110:1549–1584
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.deib.polimi.it/ita/personale/dettagli/1957454">Daniela Selvi</a>, June 2021, DOI: 110:1549–1584
       </em><br>
       <span style="font-size: 18px; color: #555;" 
         &gt; June 2021, DOI: 110:1549–1584
