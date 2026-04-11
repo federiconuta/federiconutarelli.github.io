@@ -173,7 +173,7 @@ outcomes for both empirical measurement and policy design.
       </span>
     </td>
     <td valign="top" align="right" nowrap width="20%">
-      <a href="recalls.pdf">PDF</a>
+      Available upon request
     </td>
   </tr>
 </table>
@@ -194,6 +194,9 @@ importing. Larger firms are more responsive to this information but less likely 
 disseminate it.
 </details>
 
+The inverse elasticity rule in Pharmaceuticals: A Theoretical and Empirical Analysis, joint with Massimo Riccaboni and <a href="https://www.lse.ac.uk/people/duygu-buyukyazici">Duygu Buyukyazici</a>
+
+The role of Voluntary Recalls in the Pharmaceutical Industry, joint with <a href="https://www.tse-fr.eu/people/pierre-dubois">Pierre Dubois</a>
 
 
 ## Reports
