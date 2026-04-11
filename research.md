@@ -125,6 +125,31 @@ the tails of the estimated distribution of the individual treatment effects.
 ## Working papers
 
 
+## Reports
+
+<table width="100%">
+  <tr>
+    <td valign="top" align="left" width="80%">
+      <strong style="font-size: 28px;">Annuity and Conditional Payment Schemes for the Reimbursement of One-Shot Advanced Therapies.</strong><br>
+      <em style="font-size: 20px;">
+        Joint with <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a>
+      </em><br>
+      <span style="font-size: 18px; color: #555;">
+        &gt; 
+      </span>
+    </td>
+    <td valign="top" align="right" nowrap width="20%">
+      <a href="http://eprints.imtlucca.it/4088/1/WP_1_2025_corretto.pdf">PDF</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary style="font-size: 18px;">Abstract</summary>
+  <br>
+  Advanced therapies represent a paradigm shift. They offer potentially curative solutions to life-threatening diseases through a single administration. However, this paradigm shift poses unprecedented challenges to the current model of drug access and reimbursement developed for the management of conventional therapies, where reimbursement typically occurs at the time of therapy administration. In this paper, we identify the key determinants of the paradigm shift and propose a new reimbursement model for advanced therapies. The proposed model relies on managed entry agreements to address payer uncertainty and is based on conditional and deferred payments. The potential impact of such deferred payments on spending is estimated through horizon scanning. Finally, we propose the establishment of a dedicated fund to enable timely access to advanced therapies while ensuring the sustainability of the impact on pharmaceutical expenditure.
+</details>
+
 
 
 
