@@ -90,7 +90,7 @@ the tails of the estimated distribution of the individual treatment effects.
     <td valign="top" align="left" width="80%">
       <strong style="font-size: 28px;">Matrix completion of world trade: An analysis of interpretability through Shapley values </strong><br>
       <em style="font-size: 20px;">
-        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> , The wrolds Economy, June 2023, DOI: 10.1111/twec.13457 
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> , The World Economy, June 2023, DOI: 10.1111/twec.13457 
       </em><br>
       <span style="font-size: 18px; color: #555;" 
         &gt; June 2021, DOI: 110:1549–1584
