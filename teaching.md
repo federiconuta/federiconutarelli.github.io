@@ -1,5 +1,5 @@
 ---
-layout: null
+title: Teaching
 ---
 
 ## IMT Lucca
