@@ -7,7 +7,7 @@
     <td valign="top" align="left" width="80%">
       <strong style="font-size: 28px;">Optimal data collection design in machine learning: the case of the fixed effects generalized least squares panel data model </strong><br>
       <em style="font-size: 20px;">
-        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.deib.polimi.it/ita/personale/dettagli/1957454">Daniela Selvi</a>, June 2021, DOI: 110:1549–1584
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.deib.polimi.it/ita/personale/dettagli/1957454">Daniela Selvi</a>, Machine Learning, June 2021, DOI: 110:1549–1584
       </em><br>
       <span style="font-size: 18px; color: #555;" 
         &gt; June 2021, DOI: 110:1549–1584
@@ -82,3 +82,42 @@ percentage points in April 2020. We study the treatment effect heterogeneity by
 employing a classification analysis that compares the characteristics of the firms on
 the tails of the estimated distribution of the individual treatment effects.
 </details>
+
+## Publications in Machine-Learning
+
+<table width="100%">
+  <tr>
+    <td valign="top" align="left" width="80%">
+      <strong style="font-size: 28px;">Matrix completion of world trade: An analysis of interpretability through Shapley values </strong><br>
+      <em style="font-size: 20px;">
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> , The wrolds Economy, June 2023, DOI: 10.1111/twec.13457 
+      </em><br>
+      <span style="font-size: 18px; color: #555;" 
+        &gt; June 2021, DOI: 110:1549–1584
+      </span>
+    </td>
+    <td valign="top" align="right" nowrap width="20%">
+      <a href="https://www.researchgate.net/profile/Federico-Nutarelli-2/publication/372558249_Matrix_completion_of_world_trade_An_analysis_of_interpretability_through_Shapley_values/links/64bf71e4c41fb852dd9913f9/Matrix-completion-of-world-trade-An-analysis-of-interpretability-through-Shapley-values.pdf">PDF</a>
+    </td>
+  </tr>
+</table>
+
+
+<details>
+  <summary style="font-size: 18px;">Abstract</summary>
+  <br>
+
+Economic complexity and machine learning have recently become popular approaches for analysing international trade. However, for effective use of machine learning in relation to economic complexity and policymaking, it is important to understand what are the
+key features for predictions. In this framework, this article addresses the issue of the interpretability of results
+obtained with a machine learning technique—namely, matrix completion—when applied to economic complexity, specifically in predicting revealed comparative advantages (RCAs) of countries in different product categories. Shapley values are used to measure the role each country plays in predicting the RCAs of other countries. Countries relevant for prediction may differ from countries whose RCA values are similar to those of the country of interest when a standard similarity measure such as cosine similarity is used. We demonstrate the usefulness of our approach to identifying comparable countries by focussing our analysis on export diversification into complex goods of selected European countries.
+
+
+##  Working papers
+
+
+
+
+
+
+
+
