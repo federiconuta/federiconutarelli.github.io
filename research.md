@@ -161,6 +161,39 @@ tives and underscores the importance of distinguishing between innovation effort
 outcomes for both empirical measurement and policy design.
 </details>
 
+<table width="100%">
+  <tr>
+    <td valign="top" align="left" width="80%">
+      <strong style="font-size: 28px;"> Learning to Import through Production Networks. </strong><br>
+      <em style="font-size: 20px;">
+        Joint with <a href="https://www.imtlucca.it/francesco.serti">Francesco Serti</a>, <a href="https://sites.google.com/site/kenanhuremovic/">Kenan Huremovic</a> and <a href="https://www.econ.cuhk.edu.hk/en/about/people/faculty/regular-faculty-members/fernando-vega-redondo/">Fernando Vega-Redondo</a>
+      </em><br>
+      <span style="font-size: 18px; color: #555;">
+        &gt;
+      </span>
+    </td>
+    <td valign="top" align="right" nowrap width="20%">
+      <a href="recalls.pdf">PDF</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary style="font-size: 18px;">Abstract</summary>
+  <br>
+  Using administrative data on the universe of inter-firm transactions in Spain, we
+show that firms learn to import from their domestic suppliers and customers. Our
+identification strategy exploits the panel structure of the data, the firm-time vari-
+ation across import origins, and the network structure. We find evidence of both
+upstream and downstream network effects, even after accounting for sectoral and
+spatial spillovers. We estimate that an increase of 10 percentage points in the
+share of suppliers (customers) that are importing from a given region increases the
+probability of starting importing from that region by 10.7% (19.2%). Connections
+with geographically distant domestic firms provide more useful information to start
+importing. Larger firms are more responsive to this information but less likely to
+disseminate it.
+</details>
+
 
 
 ## Reports
