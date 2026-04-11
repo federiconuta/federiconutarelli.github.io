@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Federico Nutarelli</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #111;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 30px auto;
+      padding: 0 24px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 28px;
+    }
+
+    .name-box {
+      flex: 1;
+      border: 1px solid #d9d9d9;
+      background: white;
+      padding: 22px 28px;
+      margin-right: 24px;
+    }
+
+    .name-box h1 {
+      margin: 0;
+      font-size: 56px;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .menu-box {
+      border: 1px solid #d9d9d9;
+      background: white;
+      padding: 34px 24px;
+      white-space: nowrap;
+    }
+
+    .menu-box a {
+      margin-left: 28px;
+      text-decoration: none;
+      color: #111;
+      font-size: 24px;
+    }
+
+    .main-box {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 24px;
+      border: 1px solid #d9d9d9;
+      background: white;
+      padding: 24px;
+    }
+
+    .photo img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .bio {
+      font-size: 22px;
+      line-height: 1.65;
+    }
+
+    .bio h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 28px;
+    }
+
+    .footer {
+      margin-top: 24px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    @media (max-width: 900px) {
+      .topbar {
+        flex-direction: column;
+      }
+
+      .name-box {
+        margin-right: 0;
+        margin-bottom: 16px;
+      }
+
+      .main-box {
+        grid-template-columns: 1fr;
+      }
+
+      .name-box h1 {
+        font-size: 42px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="name-box">
+        <h1>Federico Nutarelli</h1>
+      </div>
+
+      <div class="menu-box">
+        <a href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="cv.pdf">CV</a>
+      </div>
+    </div>
+
+    <div class="main-box">
+      <div class="photo">
+        <img src="federico.jpg" alt="Federico Nutarelli">
+      </div>
+
+      <div class="bio">
+        <p>
+          I am an Assistant Professor in Economics at
+          <a href="https://www.imtlucca.it">IMT Lucca</a>
+          and a long-term visitor at
+          <a href="https://www.tse-fr.eu">Toulouse School of Economics</a>.
+          I am mainly interested in empirical industrial organization, with a focus on
+          pharmaceutical markets, innovation, and firms’ responses to shocks.
+          My work combines microdata with causal inference and machine-learning methods
+          to study pricing, innovation incentives, and firm dynamics in healthcare and international trade.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          Email:
+          <a href="mailto:federico.nutarelli@imtlucca.it">federico.nutarelli@imtlucca.it</a><br>
+          Office: Department of Economics<br>
+          IMT School for Advanced Studies Lucca<br>
+          Piazza San Francesco, 19, 55100 Lucca, Italy
+        </p>
+      </div>
+    </div>
+
+    <div class="footer">
+      © 2026 Federico Nutarelli
+    </div>
+  </div>
+</body>
+</html>
