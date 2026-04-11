@@ -36,11 +36,11 @@ My work combines microdata with causal inference and machine-learning methods to
   <span style="font-size:0.27em; font-weight:bold;">© 2026 Federico Nutarelli</span>
 
   <div style="display:flex; gap:12px; margin-left:auto;">
-    <a href="https://example.com" target="_blank">
-      <img src="logo.png" alt="My image" width="24">
+    <a href="https://www.linkedin.com/in/federico-nutarelli-ph-d-462988174/" target="_blank">
+      <img src="lkd_icon.svg.webp" alt="My image" width="24">
     </a>
-    <a href="https://example2.com" target="_blank">
-      <img src="logo2.png" alt="My image" width="24">
+    <a href="mailto:federico.nutarelli@imtlucca.it">
+      <img src="email_icon.png" alt="My image" width="24">
     </a>
   </div>
 </div>
