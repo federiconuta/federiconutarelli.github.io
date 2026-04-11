@@ -1,3 +1,7 @@
+---
+title: Research
+---
+
 # Publications
 
 ## (Selected) Publications in Causal Machine-Learning
