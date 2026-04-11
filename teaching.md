@@ -1,3 +1,9 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
+
 ## IMT Lucca
 
 - Causal Machine Learning
