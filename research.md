@@ -124,6 +124,44 @@ the tails of the estimated distribution of the individual treatment effects.
 
 ## Working papers
 
+<table width="100%">
+  <tr>
+    <td valign="top" align="left" width="80%">
+      <strong style="font-size: 28px;">Market Size, Product Recalls, and Pharmaceutical Innovation. </strong><br>
+      <em style="font-size: 20px;">
+        Joint with <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> 
+      </em><br>
+      <span style="font-size: 18px; color: #555;">
+        &gt;
+      </span>
+    </td>
+    <td valign="top" align="right" nowrap width="20%">
+      <a href="jebo.pdf">PDF</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary style="font-size: 18px;">Abstract</summary>
+  <br>
+  We examine the causal effect of market size on pharmaceutical innovation in a context where
+observed revenues are endogenous equilibrium outcomes jointly determined by demand, com-
+petition, and innovation. To address this endogeneity, we use major drug recalls as a novel
+instrument for expected market rewards, relying on their sharp and unanticipated nature at
+the therapeutic-class level. Combining U.S. sales, recall, and clinical trial data at the relevant
+submarket level, we estimate the effect of market size on innovation within a control-function
+IV Poisson framework that addresses both idiosyncratic and heterogeneity-driven endogeneity.
+The identifying variation comes from recall-driven contractions in class-level revenues that
+persist beyond the recall year. We find that a 10% increase in market size leads to approximately
+a 6% increase in clinical trial activity, an elasticity at the upper range of existing estimates.
+Importantly, when innovation is restricted to trials that result in marketed products, the esti-
+mated elasticity falls substantially. This finding suggests that standard measures of innovation
+effort overstate the responsiveness of commercially successful innovation to market-size incen-
+tives and underscores the importance of distinguishing between innovation effort and realized
+outcomes for both empirical measurement and policy design.
+</details>
+
+
 
 ## Reports
 
