@@ -131,7 +131,7 @@ the tails of the estimated distribution of the individual treatment effects.
       <em style="font-size: 20px;">
         Joint with <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> 
       </em><br>
-      <span style="font-size: 18px; color: #555;">
+      <span style="font-size: 18px; color: #555;"
         &gt;
       </span>
     </td>
@@ -168,7 +168,7 @@ outcomes for both empirical measurement and policy design.
       <em style="font-size: 20px;">
         Joint with <a href="https://www.imtlucca.it/francesco.serti">Francesco Serti</a>, <a href="https://sites.google.com/site/kenanhuremovic/">Kenan Huremovic</a> and <a href="https://www.econ.cuhk.edu.hk/en/about/people/faculty/regular-faculty-members/fernando-vega-redondo/">Fernando Vega-Redondo</a>
       </em><br>
-      <span style="font-size: 18px; color: #555;">
+      <span style="font-size: 18px; color: #555;"
         &gt;
       </span>
     </td>
@@ -208,7 +208,7 @@ The role of Voluntary Recalls in the Pharmaceutical Industry, joint with <a href
       <em style="font-size: 20px;">
         Joint with <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a>
       </em><br>
-      <span style="font-size: 18px; color: #555;">
+      <span style="font-size: 18px; color: #555;"
         &gt; 
       </span>
     </td>
