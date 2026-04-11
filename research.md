@@ -136,7 +136,7 @@ the tails of the estimated distribution of the individual treatment effects.
       </span>
     </td>
     <td valign="top" align="right" nowrap width="20%">
-      <a href="jebo.pdf">PDF</a>
+      <a href="recalls.pdf">PDF</a>
     </td>
   </tr>
 </table>
