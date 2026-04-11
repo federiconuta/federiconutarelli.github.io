@@ -81,9 +81,14 @@ body {
   align-items: start;
 }
 
+.profile-image {
+  width: 220px;
+}
+
 .profile-image img {
-  width: 100%;
-  max-width: 220px;
+  width: 200px;
+  max-width: 200px;
+  height: auto;
   border-radius: 8px;
   border: 1px solid var(--line);
   display: block;
