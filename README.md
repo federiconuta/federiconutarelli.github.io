@@ -6,7 +6,7 @@
     <td align="right" valign="middle" nowrap width="35%">
       <a href="research.md">Research</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="teaching.md">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="cv.pdf">CV</a>
+      <a href="Curriculum.pdf">CV</a>
     </td>
   </tr>
 </table>
