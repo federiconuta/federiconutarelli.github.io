@@ -1,4 +1,15 @@
-# Federico Nutarelli
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" nowrap width="65%">
+      <h1 style="margin: 0;">Federico&nbsp;Nutarelli</h1>
+    </td>
+    <td align="right" valign="middle" nowrap width="35%">
+      <a href="research.md" style="color: black; text-decoration: none;">Research</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="teaching.md" style="color: black; text-decoration: none;">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="cv.pdf" style="color: black; text-decoration: none;">CV</a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
