@@ -79,12 +79,12 @@ the tails of the estimated distribution of the individual treatment effects.
 <table width="100%">
   <tr>
     <td valign="top" align="left" width="80%">
-      <strong style="font-size: 28px;">Matrix completion of world trade: An analysis of interpretability through Shapley values </strong><br>
+      <strong style="font-size: 28px;">Matrix completion of world trade: An analysis of interpretability through Shapley values</strong><br>
       <em style="font-size: 20px;">
-        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> , The World Economy 46 (9), 2707-2731, June 2023, DOI: 10.1111/twec.13457 
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a>, The World Economy 46 (9), 2707-2731, June 2023, DOI: 10.1111/twec.13457
       </em><br>
-      <span style="font-size: 18px; color: #555;" 
-        &gt; June 2021, DOI: 110:1549–1584
+      <span style="font-size: 18px; color: #555;">
+        &gt; June 2023, DOI: 10.1111/twec.13457
       </span>
     </td>
     <td valign="top" align="right" nowrap width="20%">
@@ -93,25 +93,21 @@ the tails of the estimated distribution of the individual treatment effects.
   </tr>
 </table>
 
-
 <details>
   <summary style="font-size: 18px;">Abstract</summary>
   <br>
-
-Economic complexity and machine learning have recently become popular approaches for analysing international trade. However, for effective use of machine learning in relation to economic complexity and policymaking, it is important to understand what are the
-key features for predictions. In this framework, this article addresses the issue of the interpretability of results
-obtained with a machine learning technique—namely, matrix completion—when applied to economic complexity, specifically in predicting revealed comparative advantages (RCAs) of countries in different product categories. Shapley values are used to measure the role each country plays in predicting the RCAs of other countries. Countries relevant for prediction may differ from countries whose RCA values are similar to those of the country of interest when a standard similarity measure such as cosine similarity is used. We demonstrate the usefulness of our approach to identifying comparable countries by focussing our analysis on export diversification into complex goods of selected European countries.
-
+  Economic complexity and machine learning have recently become popular approaches for analysing international trade. However, for effective use of machine learning in relation to economic complexity and policymaking, it is important to understand what are the key features for predictions. In this framework, this article addresses the issue of the interpretability of results obtained with a machine learning technique—namely, matrix completion—when applied to economic complexity, specifically in predicting revealed comparative advantages (RCAs) of countries in different product categories. Shapley values are used to measure the role each country plays in predicting the RCAs of other countries. Countries relevant for prediction may differ from countries whose RCA values are similar to those of the country of interest when a standard similarity measure such as cosine similarity is used. We demonstrate the usefulness of our approach to identifying comparable countries by focussing our analysis on export diversification into complex goods of selected European countries.
+</details>
 
 <table width="100%">
   <tr>
     <td valign="top" align="left" width="80%">
-      <strong style="font-size: 28px;">Predicting the technological complexity of global cities based on unsupervised and supervised machine learning methods. </strong><br>
+      <strong style="font-size: 28px;">Predicting the technological complexity of global cities based on unsupervised and supervised machine learning methods.</strong><br>
       <em style="font-size: 20px;">
-        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a> and <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> and <a href="https://sites.google.com/view/samueledet">Samuel Edet </a> , Journal of Economic Behavior & Organization 234, 107011, June 2025, DOI:10.1016/j.jebo.2025.107011
+        Joint with <a href="https://www.imtlucca.it/giorgiostefano.gnecco">Giorgio Gnecco</a>, <a href="https://www.imtlucca.it/massimo.riccaboni">Massimo Riccaboni</a> and <a href="https://sites.google.com/view/samueledet">Samuel Edet</a>, Journal of Economic Behavior &amp; Organization 234, 107011, June 2025, DOI: 10.1016/j.jebo.2025.107011
       </em><br>
-      <span style="font-size: 18px; color: #555;" 
-        &gt; June 2021, DOI: 110:1549–1584
+      <span style="font-size: 18px; color: #555;">
+        &gt; June 2025, DOI: 10.1016/j.jebo.2025.107011
       </span>
     </td>
     <td valign="top" align="right" nowrap width="20%">
@@ -120,14 +116,13 @@ obtained with a machine learning technique—namely, matrix completion—when ap
   </tr>
 </table>
 
-
 <details>
   <summary style="font-size: 18px;">Abstract</summary>
   <br>
+  Analyzing and predicting innovation in global cities, i.e. cities with a high degree of economic integration into the world economy, can help identify emerging technologies and inform investment decisions that facilitate talent attraction and urban planning. In this context, the contribution of this paper is to analyze the technological complexity of global cities. We show how the combination of state-of-the-art network community detection and supervised machine learning can support local innovation and development policies by predicting the future competitiveness of global cities based on an up-to-date patent dataset. Network community detection with the Poisson stochastic block model is used as an unsupervised pre-processing step to find cities with similar innovation profiles and create homogeneous training sets that improve predictive power, interpretability and computational efficiency in a subsequent supervised learning task. The paper then compares the use of different supervised machine learning methods to predict the future competitiveness of global cities. Tree-based methods turn out to achieve better prediction performance than other supervised machine learning methods on various metrics based on the ground truth derived from historical patent production. The analytical method used in this paper can help policy makers identify technology sectors where global cities could focus their future investments and provide information on the temporal evolution of geographical patterns related to innovation.
+</details>
 
-Analyzing and predicting innovation in global cities, i.e. cities with a high degree of economic integration into the world economy, can help identify emerging technologies and inform investment decisions that facilitate talent attraction and urban planning. In this context, the contribution of this paper is to analyze the technological complexity of global cities. We show how the combination of state-of-the-art network community detection and supervised machine learning can support local innovation and development policies by predicting the future competitiveness of global cities based on an up-to-date patent dataset. Network community detection with the Poisson stochastic block model is used as an unsupervised pre-processing step to find cities with similar innovation profiles and create homogeneous training sets that improve predictive power, interpretability and computational efficiency in a subsequent supervised learning task. The paper then compares the use of different supervised machine learning methods to predict the future competitiveness of global cities. Tree-based methods turn out to achieve better prediction performance than other supervised machine learning methods on various metrics based on the ground truth derived from historical patent production. The analytical method used in this paper can help policy makers identify technology sectors where global cities could focus their future investments and provide information on the temporal evolution of geographical patterns related to innovation.
-
-##  Working papers
+## Working papers
 
 
 
