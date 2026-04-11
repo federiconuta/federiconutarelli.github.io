@@ -15,7 +15,7 @@ My work combines microdata with causal inference and machine-learning methods to
 
 ## Contact
 
--- Email: <a href="mailto:federico@example.com">federico@example.com</a><br>
+-- Email: <a href="mailto:federico.nutarelli@imtlucca.it">federico.nutarelli@imtlucca.it</a><br>
 -- Office: Department of Economics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IMT School for Advanced Studies Lucca<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Piazza San Francesco, 19, 55100 Lucca, Italy
@@ -32,25 +32,19 @@ My work combines microdata with causal inference and machine-learning methods to
 
 
 
+<div style="display:flex; align-items:center; width:100%;">
+  <span style="font-size:0.27em; font-weight:bold;">© 2026 Federico Nutarelli</span>
 
-
-
-
-
-
-
-
-<hr>
-
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
-  <div>
-    © 2026 Federico Nutarelli
-  </div>
-
-  <div style="display:flex; gap:22px; align-items:center;">
-    <a href="https://x.com/TUOUSERNAME" target="_blank" aria-label="X" style="color:inherit; text-decoration:none;">X</a>
-    <a href="https://www.linkedin.com/in/TUOUSERNAME/" target="_blank" aria-label="LinkedIn" style="color:inherit; text-decoration:none;">LinkedIn</a>
-    <a href="mailto:federico@example.com" aria-label="Email" style="color:inherit; text-decoration:none;">Email</a>
-    <a href="https://tuosito.github.io/feed.xml" target="_blank" aria-label="RSS" style="color:inherit; text-decoration:none;">RSS</a>
+  <div style="display:flex; gap:12px; margin-left:auto;">
+    <a href="https://example.com" target="_blank">
+      <img src="logo.png" alt="My image" width="24">
+    </a>
+    <a href="https://example2.com" target="_blank">
+      <img src="logo2.png" alt="My image" width="24">
+    </a>
   </div>
 </div>
+
+
+
+
