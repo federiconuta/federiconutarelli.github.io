@@ -4,8 +4,8 @@
       <h1 style="margin: 0;">Federico&nbsp;Nutarelli</h1>
     </td>
     <td align="right" valign="middle" nowrap width="35%">
-      <a href="research.md">Research</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="teaching.md">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="research.html">Research</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="teaching.html">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="Curriculum.pdf">CV</a>
     </td>
   </tr>
