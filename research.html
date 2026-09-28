@@ -6,11 +6,12 @@
   <title>Research | Federico Nutarelli</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <header class="site-header">
     <div class="container nav nav-right">
-      <nav class="menu">
-        <a href="research.html" class="active">Research</a>
+      <nav class="menu" aria-label="Main navigation">
+        <a href="research.html" class="active" aria-current="page">Research</a>
         <a href="teaching.html">Teaching</a>
         <a href="Curriculum.pdf" target="_blank" rel="noopener noreferrer">CV</a>
       </nav>
@@ -18,39 +19,56 @@
   </header>
 
   <main class="container page-content">
-    <h2>Research</h2>
+    <h1>Research</h1>
 
-    <section class="section-block">
-      <h3>(Selected) Publications </h3>
+    <!-- Selected Publications -->
+    <section class="section-block" aria-labelledby="selected-publications">
+      <h2 id="selected-publications">Selected Publications</h2>
 
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>
-              Optimal data collection design in machine learning: the case of the fixed effects generalized least squares panel data model
-            </h4>
+            <h3>
+              Optimal data collection design in machine learning: the case of
+              the fixed effects generalized least squares panel data model
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/giorgiostefano.gnecco" target="_blank" rel="noopener noreferrer">Giorgio Gnecco</a>
+              <a href="https://www.imtlucca.it/giorgiostefano.gnecco"
+                 target="_blank"
+                 rel="noopener noreferrer">Giorgio Gnecco</a>
               and
-              <a href="https://www.deib.polimi.it/ita/personale/dettagli/1957454" target="_blank" rel="noopener noreferrer">Daniela Selvi</a>,
-              <em>Machine Learning</em> 110(7), 1549-1584, June 2021
+              <a href="https://www.deib.polimi.it/ita/personale/dettagli/1957454"
+                 target="_blank"
+                 rel="noopener noreferrer">Daniela Selvi</a>
             </p>
-            <p class="meta">June 2021 · DOI: 10.1007/s10994-021-05995-0</p>
+
+            <p class="meta">
+              <em>Machine Learning</em> 110(7), 1549–1584 (2021) · DOI:
+              <a href="https://doi.org/10.1007/s10994-021-05976-x"
+                 target="_blank"
+                 rel="noopener noreferrer">10.1007/s10994-021-05976-x</a>
+            </p>
           </div>
+
           <div class="paper-link">
-            <a href="https://iris.imtlucca.it/retrieve/handle/20.500.11771/19778/20932/Gnecco2021_Article_OptimalDataCollectionDesignInM.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+            <a href="https://iris.imtlucca.it/retrieve/handle/20.500.11771/19778/20932/Gnecco2021_Article_OptimalDataCollectionDesignInM.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Optimal data collection design in machine learning (opens in a new tab)">PDF</a>
           </div>
         </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            This work belongs to the strand of literature that combines machine learning,
-            optimization, and econometrics. The aim is to optimize the data collection process
-            in a specific statistical model, commonly used in econometrics, employing an
-            optimization criterion inspired by machine learning, namely, the generalization
-            error conditioned on the training input data.
+            This work belongs to the strand of literature that combines machine
+            learning, optimization, and econometrics. The aim is to optimize the
+            data collection process in a specific statistical model, commonly
+            used in econometrics, employing an optimization criterion inspired
+            by machine learning, namely, the generalization error conditioned on
+            the training input data.
           </p>
         </details>
       </article>
@@ -58,70 +76,96 @@
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>
-              Assessing the Heterogeneous Impact of Economy-Wide Shocks: A Causal Machine Learning Approach Applied to Colombian Firms
-            </h4>
+            <h3>
+              Assessing the Heterogeneous Impact of Economy-Wide Shocks:
+              A Causal Machine Learning Approach Applied to Colombian Firms
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/francesco.serti" target="_blank" rel="noopener noreferrer">Francesco Serti</a>,
-              <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>,
+              <a href="https://www.imtlucca.it/francesco.serti"
+                 target="_blank"
+                 rel="noopener noreferrer">Francesco Serti</a>,
+              <a href="https://www.imtlucca.it/massimo.riccaboni"
+                 target="_blank"
+                 rel="noopener noreferrer">Massimo Riccaboni</a>,
               Victor Ortiz and Marco Duenas
-              <em>Oxford Bulletin of Economics and Statistics</em> 1–28, September 2026
             </p>
-            <p class="meta">September 2026 · DOI: https://doi.org/10.1111/obes.70133</p>
+
+            <p class="meta">
+              <em>Oxford Bulletin of Economics and Statistics</em>
+              1–28 (2026), published online · DOI:
+              <a href="https://doi.org/10.1111/obes.70133"
+                 target="_blank"
+                 rel="noopener noreferrer">10.1111/obes.70133</a>
+            </p>
           </div>
 
-    <div class="paper-link">
-      <a href="Machine_Learning_Trade_all_2020_sorted_CADiff_8_12_22___Copy_.pdf"
-         target="_blank"
-         rel="noopener noreferrer">PDF</a>
-    </div>
-  </div>
-       
+          <div class="paper-link">
+            <a href="Machine_Learning_Trade_all_2020_sorted_CADiff_8_12_22___Copy_.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Assessing the Heterogeneous Impact of Economy-Wide Shocks (opens in a new tab)">PDF</a>
+          </div>
+        </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            Our paper presents a causal Machine Learning (ML) methodology to study the
-            heterogeneous effects of economy-wide shocks and applies it to the impact of the
-            COVID-19 crisis on exports. This method is applicable in scenarios where, due to
-            the pervasive nature of the shock, it is difficult to identify a control group that
-            is not affected by the shock and to determine ex ante differences in shock intensity
-            across units. In particular, our study investigates the effectiveness of different
-            machine learning techniques in predicting firms’ trade and, by building on recent
-            developments in causal ML, these predictions are used to reconstruct the
-            counterfactual distribution of firms’ trade under different COVID-19 scenarios and
+            Our paper presents a causal Machine Learning (ML) methodology to
+            study the heterogeneous effects of economy-wide shocks and applies
+            it to the impact of the COVID-19 crisis on exports. This method is
+            applicable in scenarios where, due to the pervasive nature of the
+            shock, it is difficult to identify a control group that is not
+            affected by the shock and to determine ex ante differences in shock
+            intensity across units. In particular, our study investigates the
+            effectiveness of different machine learning techniques in predicting
+            firms’ trade and, by building on recent developments in causal ML,
+            these predictions are used to reconstruct the counterfactual
+            distribution of firms’ trade under different COVID-19 scenarios and
             investigate the heterogeneity of treatment effects.
           </p>
         </details>
       </article>
     </section>
 
-    <section class="section-block">
-      <h3>Working Papers</h3>
+    <!-- Working Papers -->
+    <section class="section-block" aria-labelledby="working-papers">
+      <h2 id="working-papers">Working Papers</h2>
 
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>Market Size, Product Recalls, and Pharmaceutical Innovation</h4>
+            <h3>
+              Market Size, Product Recalls, and Pharmaceutical Innovation
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>
+              <a href="https://www.imtlucca.it/massimo.riccaboni"
+                 target="_blank"
+                 rel="noopener noreferrer">Massimo Riccaboni</a>
             </p>
           </div>
+
           <div class="paper-link">
-            <a href="recalls.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+            <a href="recalls.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Market Size, Product Recalls, and Pharmaceutical Innovation (opens in a new tab)">PDF</a>
           </div>
         </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            We examine the causal effect of market size on pharmaceutical innovation in a context
-            where observed revenues are endogenous equilibrium outcomes jointly determined by demand,
-            competition, and innovation. To address this endogeneity, we use major drug recalls as
-            a novel instrument for expected market rewards, relying on their sharp and unanticipated
-            nature at the therapeutic-class level.
+            We examine the causal effect of market size on pharmaceutical
+            innovation in a context where observed revenues are endogenous
+            equilibrium outcomes jointly determined by demand, competition,
+            and innovation. To address this endogeneity, we use major drug
+            recalls as a novel instrument for expected market rewards, relying
+            on their sharp and unanticipated nature at the therapeutic-class
+            level.
           </p>
         </details>
       </article>
@@ -129,15 +173,23 @@
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>Learning to Import through Production Networks</h4>
+            <h3>Learning to Import through Production Networks</h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/francesco.serti" target="_blank" rel="noopener noreferrer">Francesco Serti</a>,
-              <a href="https://sites.google.com/site/kenanhuremovic/" target="_blank" rel="noopener noreferrer">Kenan Huremovic</a>
+              <a href="https://www.imtlucca.it/francesco.serti"
+                 target="_blank"
+                 rel="noopener noreferrer">Francesco Serti</a>,
+              <a href="https://sites.google.com/site/kenanhuremovic/"
+                 target="_blank"
+                 rel="noopener noreferrer">Kenan Huremovic</a>
               and
-              <a href="https://www.econ.cuhk.edu.hk/en/about/people/faculty/regular-faculty-members/fernando-vega-redondo/" target="_blank" rel="noopener noreferrer">Fernando Vega-Redondo</a>
+              <a href="https://www.econ.cuhk.edu.hk/en/about/people/faculty/regular-faculty-members/fernando-vega-redondo/"
+                 target="_blank"
+                 rel="noopener noreferrer">Fernando Vega-Redondo</a>
             </p>
           </div>
+
           <div class="paper-link">
             <span>Available upon request</span>
           </div>
@@ -146,58 +198,90 @@
         <details>
           <summary>Abstract</summary>
           <p>
-            Using administrative data on the universe of inter-firm transactions in Spain, we
-            show that firms learn to import from their domestic suppliers and customers.
+            Using administrative data on the universe of inter-firm transactions
+            in Spain, we show that firms learn to import from their domestic
+            suppliers and customers.
           </p>
         </details>
       </article>
 
       <article class="paper simple-paper">
-        <h4>The inverse elasticity rule in Pharmaceuticals: A Theoretical and Empirical Analysis</h4>
+        <h3>
+          The Inverse Elasticity Rule in Pharmaceuticals:
+          A Theoretical and Empirical Analysis
+        </h3>
+
         <p class="authors">
           Joint with
-          <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>
+          <a href="https://www.imtlucca.it/massimo.riccaboni"
+             target="_blank"
+             rel="noopener noreferrer">Massimo Riccaboni</a>
           and
-          <a href="https://www.lse.ac.uk/people/duygu-buyukyazici" target="_blank" rel="noopener noreferrer">Duygu Buyukyazici</a>
+          <a href="https://www.lse.ac.uk/people/duygu-buyukyazici"
+             target="_blank"
+             rel="noopener noreferrer">Duygu Buyukyazici</a>
         </p>
       </article>
 
       <article class="paper simple-paper">
-        <h4>The role of Voluntary Recalls in the Pharmaceutical Industry</h4>
+        <h3>The Role of Voluntary Recalls in the Pharmaceutical Industry</h3>
+
         <p class="authors">
           Joint with
-          <a href="https://www.tse-fr.eu/people/pierre-dubois" target="_blank" rel="noopener noreferrer">Pierre Dubois</a>
+          <a href="https://www.tse-fr.eu/people/pierre-dubois"
+             target="_blank"
+             rel="noopener noreferrer">Pierre Dubois</a>
         </p>
       </article>
     </section>
-    
-    <section class="section-block">
-      <h3>Publications in other fields</h3>
+
+    <!-- Publications in other fields -->
+    <section class="section-block" aria-labelledby="other-publications">
+      <h2 id="other-publications">Publications in other fields</h2>
+
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>Matrix completion of world trade: An analysis of interpretability through Shapley values</h4>
+            <h3>
+              Matrix completion of world trade: An analysis of interpretability
+              through Shapley values
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/giorgiostefano.gnecco" target="_blank" rel="noopener noreferrer">Giorgio Gnecco</a>
+              <a href="https://www.imtlucca.it/giorgiostefano.gnecco"
+                 target="_blank"
+                 rel="noopener noreferrer">Giorgio Gnecco</a>
               and
-              <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>,
-              <em>The World Economy</em> 46(9), 2707-2731, June 2023
+              <a href="https://www.imtlucca.it/massimo.riccaboni"
+                 target="_blank"
+                 rel="noopener noreferrer">Massimo Riccaboni</a>
             </p>
-            <p class="meta">June 2023 · DOI: 10.1111/twec.13457</p>
+
+            <p class="meta">
+              <em>The World Economy</em> 46(9), 2707–2731 (2023) · DOI:
+              <a href="https://doi.org/10.1111/twec.13457"
+                 target="_blank"
+                 rel="noopener noreferrer">10.1111/twec.13457</a>
+            </p>
           </div>
+
           <div class="paper-link">
-            <a href="https://www.researchgate.net/profile/Federico-Nutarelli-2/publication/372558249_Matrix_completion_of_world_trade_An_analysis_of_interpretability_through_Shapley_values/links/64bf71e4c41fb852dd9913f9/Matrix-completion-of-world-trade-An-analysis-of-interpretability-through-Shapley-values.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+            <a href="https://www.researchgate.net/profile/Federico-Nutarelli-2/publication/372558249_Matrix_completion_of_world_trade_An_analysis_of_interpretability_through_Shapley_values/links/64bf71e4c41fb852dd9913f9/Matrix-completion-of-world-trade-An-analysis-of-interpretability-through-Shapley-values.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Matrix completion of world trade (opens in a new tab)">PDF</a>
           </div>
         </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            Economic complexity and machine learning have recently become popular approaches
-            for analysing international trade. However, for effective use of machine learning
-            in relation to economic complexity and policymaking, it is important to understand
-            what are the key features for predictions.
+            Economic complexity and machine learning have recently become
+            popular approaches for analysing international trade. However,
+            for effective use of machine learning in relation to economic
+            complexity and policymaking, it is important to understand what
+            are the key features for predictions.
           </p>
         </details>
       </article>
@@ -205,113 +289,157 @@
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h4>Predicting the technological complexity of global cities based on unsupervised and supervised machine learning methods</h4>
+            <h3>
+              Predicting the technological complexity of global cities based
+              on unsupervised and supervised machine learning methods
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/giorgiostefano.gnecco" target="_blank" rel="noopener noreferrer">Giorgio Gnecco</a>,
-              <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>
+              <a href="https://www.imtlucca.it/giorgiostefano.gnecco"
+                 target="_blank"
+                 rel="noopener noreferrer">Giorgio Gnecco</a>,
+              <a href="https://www.imtlucca.it/massimo.riccaboni"
+                 target="_blank"
+                 rel="noopener noreferrer">Massimo Riccaboni</a>
               and
-              <a href="https://sites.google.com/view/samueledet" target="_blank" rel="noopener noreferrer">Samuel Edet</a>,
-              <em>Journal of Economic Behavior &amp; Organization</em> 234, 107011, June 2025
+              <a href="https://sites.google.com/view/samueledet"
+                 target="_blank"
+                 rel="noopener noreferrer">Samuel Edet</a>
             </p>
-            <p class="meta">June 2025 · DOI: 10.1016/j.jebo.2025.107011</p>
+
+            <p class="meta">
+              <em>Journal of Economic Behavior &amp; Organization</em>
+              234, 107011 (2025) · DOI:
+              <a href="https://doi.org/10.1016/j.jebo.2025.107011"
+                 target="_blank"
+                 rel="noopener noreferrer">10.1016/j.jebo.2025.107011</a>
+            </p>
           </div>
+
           <div class="paper-link">
-            <a href="jebo.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+            <a href="jebo.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Predicting the technological complexity of global cities (opens in a new tab)">PDF</a>
           </div>
         </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            This paper analyzes and predicts the technological complexity of global cities.
-            It combines network community detection and supervised machine learning to identify
-            homogeneous training sets and improve predictive power, interpretability, and
-            computational efficiency.
+            This paper analyzes and predicts the technological complexity of
+            global cities. It combines network community detection and
+            supervised machine learning to identify homogeneous training sets
+            and improve predictive power, interpretability, and computational
+            efficiency.
           </p>
         </details>
       </article>
-<article class="paper">
-  <div class="paper-header">
-    <div>
-      <h4>Modeling innovation ecosystem dynamics through interacting reinforced Bernoulli processes</h4>
 
-      <p class="authors">
-        Joint with
-        <a href="https://www.unimi.it/it/ugov/person/giacomo-aletti"
-           target="_blank"
-           rel="noopener noreferrer">Giacomo Aletti</a>,
-        <a href="https://www.imtlucca.it/irene.crimaldi"
-           target="_blank"
-           rel="noopener noreferrer">Irene Crimaldi</a>,
-        and
-        <a href="https://www.unimib.it/andrea-ghiglietti"
-           target="_blank"
-           rel="noopener noreferrer">Andrea Ghiglietti</a>,
-        <em>Research Policy</em> 55(9), 105587, November 2026
-      </p>
-
-      <p class="meta">
-        November 2026 · DOI: 10.1016/j.respol.2026.105587
-      </p>
-    </div>
-
-    <div class="paper-link">
-      <a href="respol.pdf"
-         target="_blank"
-         rel="noopener noreferrer">PDF</a>
-    </div>
-  </div>
-
-  <details>
-    <summary>Abstract</summary>
-    <p>
-      Innovation is cumulative and interdependent: successful inventions build
-      on prior knowledge within technological fields and may also affect success
-      across related ones. Yet these dimensions are often studied separately in
-      the innovation literature. This paper asks whether patent success across
-      technological categories can be represented within a single dynamic
-      framework that jointly captures within-category reinforcement,
-      cross-category spillovers, and a set of aggregate regularities observed in
-      patent data. To address this question, we propose a model of interacting
-      reinforced Bernoulli processes in which the probability of success in a
-      given category depends on past successes both within that category and
-      across other categories. The framework yields joint predictions for
-      success probabilities, cumulative successes, relative success shares, and
-      cross-category dependence. We implement the model using granted US patent
-      families from GLOBAL PATSTAT (1980–2018), defining category-specific
-      success through a cohort-normalized forward-citation index. The empirical
-      analysis shows that successful innovations continue to accumulate, but
-      less than proportionally to the growth in patent opportunities, while
-      technological categories remain interdependent without becoming
-      homogeneous. Under a mean-field restriction, the model-based inferential
-      exercise points to a positive but non-maximal interaction across
-      technological categories.
-    </p>
-  </details>
-</article>
-         </section>
-      <section class="section-block">
-      <h3>Policy reports </h3>
       <article class="paper">
         <div class="paper-header">
           <div>
-            <h5>Annuity and Conditional Payment Schemes for the Reimbursement of One-Shot Advanced Therapies</h5>
+            <h3>
+              Modeling innovation ecosystem dynamics through interacting
+              reinforced Bernoulli processes
+            </h3>
+
             <p class="authors">
               Joint with
-              <a href="https://www.imtlucca.it/massimo.riccaboni" target="_blank" rel="noopener noreferrer">Massimo Riccaboni</a>
+              <a href="https://www.unimi.it/it/ugov/person/giacomo-aletti"
+                 target="_blank"
+                 rel="noopener noreferrer">Giacomo Aletti</a>,
+              <a href="https://www.imtlucca.it/irene.crimaldi"
+                 target="_blank"
+                 rel="noopener noreferrer">Irene Crimaldi</a>,
+              and
+              <a href="https://www.unimib.it/andrea-ghiglietti"
+                 target="_blank"
+                 rel="noopener noreferrer">Andrea Ghiglietti</a>
+            </p>
+
+            <p class="meta">
+              <em>Research Policy</em> 55(9), 105587 (2026) · DOI:
+              <a href="https://doi.org/10.1016/j.respol.2026.105587"
+                 target="_blank"
+                 rel="noopener noreferrer">10.1016/j.respol.2026.105587</a>
             </p>
           </div>
+
           <div class="paper-link">
-            <a href="http://eprints.imtlucca.it/4088/1/WP_1_2025_corretto.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+            <a href="respol.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Modeling innovation ecosystem dynamics through interacting reinforced Bernoulli processes (opens in a new tab)">PDF</a>
           </div>
         </div>
 
         <details>
           <summary>Abstract</summary>
           <p>
-            Advanced therapies represent a paradigm shift. They offer potentially curative
-            solutions to life-threatening diseases through a single administration.
+            Innovation is cumulative and interdependent: successful inventions
+            build on prior knowledge within technological fields and may also
+            affect success across related ones. Yet these dimensions are often
+            studied separately in the innovation literature. This paper asks
+            whether patent success across technological categories can be
+            represented within a single dynamic framework that jointly captures
+            within-category reinforcement, cross-category spillovers, and a set
+            of aggregate regularities observed in patent data. To address this
+            question, we propose a model of interacting reinforced Bernoulli
+            processes in which the probability of success in a given category
+            depends on past successes both within that category and across
+            other categories. The framework yields joint predictions for
+            success probabilities, cumulative successes, relative success
+            shares, and cross-category dependence. We implement the model
+            using granted US patent families from GLOBAL PATSTAT (1980–2018),
+            defining category-specific success through a cohort-normalized
+            forward-citation index. The empirical analysis shows that
+            successful innovations continue to accumulate, but less than
+            proportionally to the growth in patent opportunities, while
+            technological categories remain interdependent without becoming
+            homogeneous. Under a mean-field restriction, the model-based
+            inferential exercise points to a positive but non-maximal
+            interaction across technological categories.
+          </p>
+        </details>
+      </article>
+    </section>
+
+    <!-- Policy Reports: separate from Publications in other fields -->
+    <section class="section-block" aria-labelledby="policy-reports">
+      <h2 id="policy-reports">Policy Reports</h2>
+
+      <article class="paper">
+        <div class="paper-header">
+          <div>
+            <h3>
+              Annuity and Conditional Payment Schemes for the Reimbursement
+              of One-Shot Advanced Therapies
+            </h3>
+
+            <p class="authors">
+              Joint with
+              <a href="https://www.imtlucca.it/massimo.riccaboni"
+                 target="_blank"
+                 rel="noopener noreferrer">Massimo Riccaboni</a>
+            </p>
+          </div>
+
+          <div class="paper-link">
+            <a href="http://eprints.imtlucca.it/4088/1/WP_1_2025_corretto.pdf"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="PDF: Annuity and Conditional Payment Schemes for the Reimbursement of One-Shot Advanced Therapies (opens in a new tab)">PDF</a>
+          </div>
+        </div>
+
+        <details>
+          <summary>Abstract</summary>
+          <p>
+            Advanced therapies represent a paradigm shift. They offer
+            potentially curative solutions to life-threatening diseases
+            through a single administration.
           </p>
         </details>
       </article>
@@ -321,12 +449,22 @@
   <footer class="site-footer">
     <div class="container footer-content">
       <span>© 2026 Federico Nutarelli</span>
+
       <div class="socials">
-        <a href="https://www.linkedin.com/in/federico-nutarelli-ph-d-462988174/" target="_blank" rel="noopener noreferrer">
-          <img src="lkd_icon.svg.webp" alt="LinkedIn" width="24" height="24" />
+        <a href="https://www.linkedin.com/in/federico-nutarelli-ph-d-462988174/"
+           target="_blank"
+           rel="noopener noreferrer">
+          <img src="lkd_icon.svg.webp"
+               alt="LinkedIn"
+               width="24"
+               height="24" />
         </a>
+
         <a href="mailto:federico.nutarelli@imtlucca.it">
-          <img src="email_icon.png" alt="Email" width="24" height="24" />
+          <img src="email_icon.png"
+               alt="Email"
+               width="24"
+               height="24" />
         </a>
       </div>
     </div>
